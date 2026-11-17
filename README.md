@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="adeel.jpg" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
 <h3 align="center">AI Product Manager & Data Scientist</h3>
 
