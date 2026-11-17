@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadadeel581/muhammadadeel581/main/adel.jpeg" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/muhammadadeel581/muhammadadeel581/main/pic.jpeg" width="100%" style="border-radius: 8px;" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadadeel581/muhammadadeel581/main/adel.jpeg" width="150" height="150" style="border-radius: 50%; margin-top: -80px; border: 4px solid white;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
@@ -9,7 +13,7 @@
 - 🌱 I’m currently learning **Advanced AI & Data Science at SMIT**
 - 👯 I’m looking to collaborate on **AI Product Management & Machine Learning Projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Zapier Automation & Prototyping**
-- 📫 How to reach me: **adeeloffical581@gmail.com**
+- 📫 How to reach me: **adilofficial581@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
